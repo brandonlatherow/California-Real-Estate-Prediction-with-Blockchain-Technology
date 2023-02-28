@@ -1,37 +1,39 @@
-# California Real Estate Prediction with Blockchain Technology <br /><br />
+# **Real Estate Prediction with Blockchain Technology**
 
+<br />
 
-![California Beach Real-Estate](Proposal_Images/california_beach.jpeg) 
+### **Machine Learning**
 
-![Ethereum](Proposal_Images/ethereum.jpeg)
-
-<br /><br />
-
-## **Proposal:** 
+<br />
 
 In this project, we will be using Kaggle to pull data on California home prices. The home pricing will then be evaluated with multiple Machine Learning models to predict future buying opportunities. The machine learning models that we will compare include: 
 
-<br /><br />
 
-* **Linear Regression**
+* ***Linear Regression***
 
-<br />
 
-* **K Nearest Neighbors** 
+* ***K Nearest Neighbors*** 
 
-<br />
 
-* **Random Forest**
+* ***Random Forest***
 
-<br />
+* ***Gradient Boosting Regressor***
 
-* **Gradient Boosting Regressor**
+
+* ***Neural Networks***
 
 <br />
 
-* **Neural Networks** 
+![California Beach Real-Estate](Proposal_Images/california_beach.jpeg)
 
-<br /><br />
+<br />
 
-Via Blockchain technology and using Streamlit, we will use the Machine Learning predictions to give buying opportunities for investors using Ethereum. 
+### **Blockchain**
 
+<br />
+
+Via Blockchain Technology and using Streamlit, we will use the Machine Learning predictions to give investors buying opportunities, using Ethereum.
+
+<br />
+
+![Ethereum](Proposal_Images/ethereum.jpeg)
