@@ -37,3 +37,8 @@ Via Blockchain Technology and using Streamlit, we will use the Machine Learning 
 <br />
 
 ![Ethereum](Proposal_Images/ethereum.jpeg)
+
+<br />
+
+### **Contributors: Gabriel Millan, Brandon Latherow, and Tim Clemens
+
