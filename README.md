@@ -32,7 +32,7 @@ In this project, we will be using Kaggle to pull data on California home prices.
 
 <br />
 
-Via Blockchain Technology and using Streamlit, we will use the Machine Learning predictions to give buying opportunities for investors using Ethereum.
+Via Blockchain Technology and using Streamlit, we will use the Machine Learning predictions to give investors buying opportunities, using Ethereum.
 
 <br />
 
