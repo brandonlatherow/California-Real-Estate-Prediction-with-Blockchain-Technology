@@ -41,5 +41,5 @@ Via Blockchain Technology and using Streamlit, we will use the Machine Learning 
 <br />
 <br />
 
-**Contributors: Gabriel Millan, Brandon Latherow, and Tim Clemens**
+**Contributors: Gabriel Millan, Tim Clemens, and Brandon Latherow**
 
