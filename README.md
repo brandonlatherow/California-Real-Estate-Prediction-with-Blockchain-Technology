@@ -75,6 +75,7 @@ Via Blockchain Technology and using Streamlit, we will use the Machine Learning 
 ## Made Using:
 * [Blockchain](https://www.blockchain.com/) - Digital Ledger
 * [Conda](https://docs.conda.io/en/latest/) - Package Manager
+* [Ethereum](https://ethereum.org/en/) - Cryptocurrency
 * [Hvplot](https://hvplot.holoviz.org/) - Data Visualization in Pandas
 * [Kaggle](https://www.kaggle.com/) - Real Estate Data
 * [Matplotlib](https://hvplot.holoviz.org/) - Data Visualization
