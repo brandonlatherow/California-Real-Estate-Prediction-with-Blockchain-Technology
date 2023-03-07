@@ -66,6 +66,10 @@ The California housing dataset provides data on a range of socio-economic charac
 ## Machine Learning Results
 (Results here)
 
+## Challenges
+
+We were unable to achieve a high accuracy score amongst all of our models. 
+
 <br />
 <br />
 
