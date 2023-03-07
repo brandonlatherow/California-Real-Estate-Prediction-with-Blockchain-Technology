@@ -1,5 +1,7 @@
 # **Real Estate Prediction with Blockchain Technology**
 
+![California House](Images/california_beach.png) 
+
 <br />
 
 ## Description
