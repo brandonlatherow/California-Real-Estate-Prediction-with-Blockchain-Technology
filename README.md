@@ -40,7 +40,7 @@ The California housing dataset provides data on a range of socio-economic charac
 
 
 
-## **Machine Learning**
+## **Machine Learning Models**
 
 * ***Linear Regression***
 
@@ -68,8 +68,14 @@ We were unable to achieve a high accuracy score amongst all of our models.
 <br />
 <br />
 
-## **Blockchain**
-Via Blockchain Technology and using Streamlit, we will use the Machine Learning predictions to give investors buying opportunities, using Ethereum.
+## **Blockchain Requirements**
+
+- **Crypto Wallet:** Investors must Possess this With Ethereum Funds
+- **Ganache:** The source of Cryptocurrency Funds
+- **Streamlit:** Application to show property and execute investments
+![Ether](Images/real_ether.png)
+![Ganache](Images/ganache.png)
+![Streamlit](Images/streamlit.png)
 
 <br />
 <br />
@@ -81,9 +87,6 @@ Via Blockchain Technology and using Streamlit, we will use the Machine Learning 
 
 ## Conclusion
 
-## Requirements
-
-(Finish once coding is done)
 
 
 ## Made Using:
