@@ -13,11 +13,6 @@ This project intends to predict future California home prices to give potential 
 <br />
 <br />
 
-## Notebooks
-[Real Estate Cryptocurrency Wallet](./RealEstate_CryptoWallet.py)
-<br />
-<br />
-
 ## Data Analyzed
 
 The California Housing dataset, which is commonly used for machine learning and statistics, derives from the 1990 US census. It was initially published in 1990 by Pace, R. Kelley and Ronald Barry and is available on the UCI Machine Learning Repository. This dataset contains information about the economic and geographic characteristics of houses, as well as the economic status of residents in California.
