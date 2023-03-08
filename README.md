@@ -42,15 +42,13 @@ The California housing dataset provides data on a range of socio-economic charac
 
 ## **Machine Learning Models**
 
-* ***Linear Regression***
+* ***Linear Regression*** - Machine learning algorithm used for predicting continuous target variables based on one or more independent variables. It works by finding a linear relationship between the independent variables (also known as features) and the target variable. 
 
+* ***K Nearest Neighbors*** - Machine learning algorithm, that works by finding the K nearest data points in the training set to a new data point, and then making a prediction based on the most common class or the average value of the K nearest neighbors. The value of K is a hyperparameter that needs to be tuned based on the data and the problem at hand.
 
-* ***K Nearest Neighbors*** 
+* ***Random Forest*** - Random Forest is a machine learning algorithm, where each decision tree is trained on a random subset of the features and a random subset of the training data. This creates a diverse set of models that are less likely to make the same mistakes. The final prediction is then made by averaging the predictions of all the individual trees.
 
-
-* ***Random Forest***
-
-* ***Gradient Boosting Regressor***
+* ***Gradient Boosting Regressor*** - Gradient Boosting Regressor works by iteratively adding new decision trees to the model, with each tree attempting to correct the errors of the previous tree. The final prediction is then made by summing the predictions of all the individual trees.
 
 
 * ***Neural Networks***
