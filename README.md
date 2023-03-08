@@ -79,8 +79,12 @@ We were unable to achieve a high accuracy score amongst all of our models.
 - **Ganache:** Ganahce is the source of Cryptocurrency Funds, and is used to create a local blockchain network that mimics the main Ethereum network. This allows for testing and experimenting with applications in a secure environment without spending real cryptocurrency.
 
 <br />
+<p align="center">
+  <img src="Images/ganache.png" alt="Image" style="display: block; margin: 0 auto, width="300", height="300";">
+</p>
 
-![Ganache](Images/ganache.png)
+![Ganache]
+
 
 <br />
 
