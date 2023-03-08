@@ -120,6 +120,7 @@ pip install eth-tester
 pip install web3
 pip show protobuf
 pip install --upgrade protobuf
+pip install -U scikit-learn
 ```
 
 
