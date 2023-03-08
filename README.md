@@ -99,6 +99,12 @@ We were unable to achieve a high accuracy score amongst all of our models.
 
 ## Conclusion
 
+<br />
+<br />
+
+## Installation Guide
+
+
 
 
 ## Made Using:
