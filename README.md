@@ -72,16 +72,16 @@ We were unable to achieve a high accuracy score amongst all of our models.
 
 - **Crypto Wallet:** Investors must own a digital wallet that holds funds in the form of Ethereum cryptocurrency. A crypto wallet is a software application that stores public and private keys used for sending, receiving, and storing digital assets like cryptocurrencies.
 
+![Ether](Images/real_ether.png)
+
 <br />
 
 - **Ganache:** Ganahce is the source of Cryptocurrency Funds, and is used to create a local blockchain network that mimics the main Ethereum network. This allows for testing and experimenting with applications in a secure environment without spending real cryptocurrency.
+![Ganache](Images/ganache.png)
 
 <br />
 
 - **Streamlit:** Streamlit is a Web Application that allows users to create interactive data visualizations, web applications, and machine learning models. We used Streamlit to create a user-friendly interface for potential investors to view the properties and execute transactions using Ethereum cryptocurrency.
-
-![Ether](Images/real_ether.png)
-![Ganache](Images/ganache.png)
 ![Streamlit](Images/streamlit.png)
 
 <br />
