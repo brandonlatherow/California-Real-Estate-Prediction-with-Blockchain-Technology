@@ -103,7 +103,9 @@ We were able to successfully run our streamlit application for three individual 
 - A validated transaction hash.
 
 ![Streamlit 1](Images/ether_one.png)
+<br />
 ![Streamlit 2](Images/ether_two.png)
+<br />
 ![Streamlit 3](Images/ether_confirm.png)
 <br />
 <br />
