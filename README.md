@@ -93,6 +93,15 @@ We were unable to achieve a high accuracy score amongst all of our models.
 <br />
 
 ## Blockchain Results
+We were able to successfully run our streamlit application for three individual properties. Our streamlit application includeded multiple different components:  
+
+- The current price of Ethereum in USD.
+- Input box for the sender's account address with their current Ethereum balance.
+- A dropdown menu to choose between the three properties.
+- Cryptocurrency Value of the Individual Properties.
+- The total wage in Ethereum for the transaction with a button to send the transaction.
+- A validated transaction hash.
+
 
 <br />
 <br />
