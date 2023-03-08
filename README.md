@@ -51,7 +51,7 @@ The California housing dataset provides data on a range of socio-economic charac
 * ***Gradient Boosting Regressor*** - Gradient Boosting Regressor works by iteratively adding new decision trees to the model, with each tree attempting to correct the errors of the previous tree. The final prediction is then made by summing the predictions of all the individual trees.
 
 
-* ***Neural Networks***
+* ***Neural Networks*** - Neural Networks are a type of machine learning algorithm that is inspired by the structure and function of the human brain. They are composed of multiple interconnected nodes, called neurons, that work together to perform complex computations on input data and produce output predictions.
 
 <br />
 <br />
