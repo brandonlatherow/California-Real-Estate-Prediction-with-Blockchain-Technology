@@ -72,7 +72,9 @@ We were unable to achieve a high accuracy score amongst all of our models.
 
 <br />
 
-![Ether](Images/real_ether.png)
+<p align="center">
+  <img src="Images/real_ether.png" alt="Image" style="display: block; margin: 0 auto, width="300", height="300";">
+</p>
 
 <br />
 
@@ -83,8 +85,6 @@ We were unable to achieve a high accuracy score amongst all of our models.
   <img src="Images/ganache.png" alt="Image" style="display: block; margin: 0 auto, width="300", height="300";">
 </p>
 
-![Ganache]
-
 
 <br />
 
@@ -92,7 +92,9 @@ We were unable to achieve a high accuracy score amongst all of our models.
 
 <br />
 
-![Streamlit](Images/streamlit.png)
+<p align="center">
+  <img src="Images/streamlit.png" alt="Image" style="display: block; margin: 0 auto, width="300", height="300";">
+</p>
 
 <br />
 
@@ -106,11 +108,20 @@ We were able to successfully run our streamlit application for three individual 
 - The total wage in Ethereum for the transaction with a button to send the transaction.
 - A validated transaction hash.
 
-![Streamlit 1](Images/ether_one.png)
+<p align="center">
+  <img src="Images/ether_one.png" alt="Image" style="display: block; margin: 0 auto, width="300", height="300";">
+</p>
+
 <br />
-![Streamlit 2](Images/ether_two.png)
+<p align="center">
+  <img src="Images/ether_two.png" alt="Image" style="display: block; margin: 0 auto, width="300", height="300";">
+</p>
+
 <br />
-![Streamlit 3](Images/ether_confirm.png)
+
+<p align="center">
+  <img src="Images/ether_confirm.png" alt="Image" style="display: block; margin: 0 auto, width="300", height="300";">
+</p>
 <br />
 <br />
 
