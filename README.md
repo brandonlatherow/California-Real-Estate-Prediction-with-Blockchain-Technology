@@ -104,8 +104,6 @@ We were unable to achieve a high accuracy score amongst all of our models.
 
 ## Installation Guide
 
-These are the necessary installations
-
 ```
 
 pip install streamlit
@@ -121,6 +119,7 @@ pip install web3
 pip show protobuf
 pip install --upgrade protobuf
 pip install -U scikit-learn
+pip install tensorflow==2.11
 ```
 
 
