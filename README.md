@@ -104,7 +104,23 @@ We were unable to achieve a high accuracy score amongst all of our models.
 
 ## Installation Guide
 
+These are the necessary installations
 
+```
+
+pip install streamlit
+pip install python-dotenv
+pip install datetime
+pip install pandas
+pip install typing
+pip install dataclasses
+pip install bip44
+pip install mnemonic
+pip install eth-tester
+pip install web3
+pip show protobuf
+pip install --upgrade protobuf
+```
 
 
 ## Made Using:
