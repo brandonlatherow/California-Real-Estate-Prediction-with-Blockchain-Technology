@@ -1,6 +1,8 @@
 # **Real Estate Prediction with Blockchain Technology**
 
-![California House](Images/california_beach.jpeg) 
+<p align="center">
+  <img src="Images/california_beach.jpeg" alt="Image" style="display: block; margin: 0 auto, width="300", height="300";">
+</p>
 
 <br />
 
@@ -15,7 +17,9 @@ This project intends to predict future California home prices to give potential 
 
 The California Housing dataset, which is commonly used for machine learning and statistics, derives from the California Census. It was initially published by Pace, R. Kelley and Ronald Barry and is available on the UCI Machine Learning Repository. This dataset contains information about the economic and geographic characteristics of houses, as well as the economic status of residents in California.
 
-![California House](Images/california_map.png)
+<p align="center">
+  <img src="Images/california_map.png" alt="Image" style="display: block; margin: 0 auto, width="300", height="300";">
+</p>
 
 <br />
 
