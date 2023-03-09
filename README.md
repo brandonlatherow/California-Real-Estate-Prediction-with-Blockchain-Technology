@@ -94,10 +94,12 @@ The California housing dataset provides data on a range of socio-economic charac
   (Mean Absolute Error): 40880.82077175698<br>
   (Root Mean Squared Error): 217.42774107901127<br>
   (Root Mean Squared Error): 226.5915817172601<br>
-  <br>
-  <br>
- 
-
+ <p align="center">
+  <img src="Images/GBR.png" alt="Image" style="display: block; margin: 0 auto, width="300", height="300";">
+</p>
+<br>
+<br>
+  
 ## Challenges
 
 We were unable to achieve a high accuracy score amongst all of our models. 
