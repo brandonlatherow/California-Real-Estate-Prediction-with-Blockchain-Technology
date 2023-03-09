@@ -63,7 +63,7 @@ The California housing dataset provides data on a range of socio-economic charac
 ## Machine Learning Results
 
 
-Linear Regression:<br>
+**Linear Regression** <br>
   (Mean Squared Error): 68593.05578127236<br>
   (Mean Squared Error): 71382.43558330163<br>
   (Mean Absolute Error): 49754.40656859453<br>
@@ -71,7 +71,7 @@ Linear Regression:<br>
   (Root Mean Squared Error): 261.90276016352396<br>
   (Root Mean Squared Error): 267.17491570748484<br>
   <br>
-K-Nearest Neighbors:<br>
+**K-Nearest Neighbors**<br>
   (Mean Squared Error): 53759.09908812057<br>
   (Mean Squared Error): 62161.22860469906<br>
   (Mean Absolute Error): 36167.44879444445<br>
@@ -79,7 +79,7 @@ K-Nearest Neighbors:<br>
   (Root Mean Squared Error): 231.8600851550792<br>
   (Root Mean Squared Error): 249.32153658418494<br>
   <br>
-Random Forest:<br>
+**Random Forest**<br>
   (Mean Squared Error): 53759.09908812057<br>
   (Mean Squared Error): 62161.22860469906<br>
   (Mean Absolute Error): 36167.44879444445<br>
@@ -87,7 +87,7 @@ Random Forest:<br>
   (Root Mean Squared Error): 208.56612659255168<br>
   (Root Mean Squared Error): 231.43986790453792<br>
   <br>
-Gradient Boosting:<br>
+**Gradient Boosting (Winner)**<br>
   (Mean Squared Error): 53759.09908812057<br>
   (Mean Squared Error): 62161.22860469906<br>
   (Mean Absolute Error): 36167.44879444445<br>
@@ -96,6 +96,8 @@ Gradient Boosting:<br>
   (Root Mean Squared Error): 226.5915817172601<br>
   <br>
   <br>
+ 
+
 ## Challenges
 
 We were unable to achieve a high accuracy score amongst all of our models. 
