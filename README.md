@@ -164,6 +164,13 @@ We were able to successfully run our streamlit application for three individual 
 
 ## Conclusion
 
+Overall it was a very fun project with many things to take away. We as a team learned that predicting real estate prices can be a very tough task with datasets being very limited. Our blockchain contract worked out very well and we feel it was a great additon to real estate machine learning. We developed a great understanding of the Real Estate Market for California and could easily do the same for any area of the globe!
+
+
+## Future Expanse
+
+Tokenization of Real Estate is something that has became very popular and it would be a great next step into our ventures. Adding data mining for better and more accurate data sets would help tremendously on all aspects. Other forms of lead generation such as homes in default or approaching tax sale would be a great advantage of offering tremendous opportunities for investors. 
+
 <br />
 <br />
 
