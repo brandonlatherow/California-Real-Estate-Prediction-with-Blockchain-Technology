@@ -87,14 +87,23 @@ The California housing dataset provides data on a range of socio-economic charac
   (Root Mean Squared Error): 208.56612659255168<br>
   (Root Mean Squared Error): 231.43986790453792<br>
   <br>
-**Gradient Boosting (Winner)**<br>
+**Neural Network** <br>
+ (Mean Squared Error): 220478.83820774715<br>
+ (Mean Squared Error): 220708.7079338669<br>
+ (Mean Absolute Error): 189552.3961626945<br>
+ (Mean Absolute Error): 189486.02469791606<br>
+ (Root Mean Squared Error): 469.551741779058<br>
+ (Root Mean Squared Error): 469.7964537263632<br>
+ <br>
+ <p align="center">
+ **Gradient Boosting (Winner)**<br>
   (Mean Squared Error): 53759.09908812057<br>
   (Mean Squared Error): 62161.22860469906<br>
   (Mean Absolute Error): 36167.44879444445<br>
   (Mean Absolute Error): 40880.82077175698<br>
   (Root Mean Squared Error): 217.42774107901127<br>
   (Root Mean Squared Error): 226.5915817172601<br>
-  
+  </p>
 <br>
 <br>
   
