@@ -103,13 +103,6 @@ The California housing dataset provides data on a range of socio-economic charac
 </p>
 <br>
 <br>
-  
-## Challenges
-
-We were unable to achieve a high accuracy score amongst all of our models. 
-
-<br />
-<br />
 
 ## **Blockchain Requirements**
 
@@ -169,6 +162,13 @@ We were able to successfully run our streamlit application for three individual 
 </p>
 <br />
 <br />
+
+## Challenges
+
+- For the machine learning sectionn, we were unable to achieve a high accuracy score amongst all of our models. This proved difficult as we were hoping that our findings would have more external validity.
+- Due to other limits, we were unable to merge our machine learning code with our blockchain application. This meant that we needed to manually update to the blockchain application for the real estate evaluations.
+- We were not able to include live refreshes for changes in the price of Ethereum.
+
 
 ## Conclusion
 
