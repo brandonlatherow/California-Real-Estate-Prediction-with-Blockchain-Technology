@@ -106,10 +106,26 @@ The California housing dataset provides data on a range of socio-economic charac
   </p>
 <br>
 <br>
-  
+
+
  <p align="center">
   <img src="Images/GBR.png" alt="Image" style="display: block; margin: 0 auto, width="300", height="300";">
 </p>
+
+<br>
+<br>
+
+ <p align="center">
+  <img src="Images/gbr_boxplot.png" alt="Image" style="display: block; margin: 0 auto, width="300", height="300";">
+</p>
+
+<br>
+<br>
+
+<p align="center">
+  <img src="Images/gbr_hvplot.png" alt="Image" style="display: block; margin: 0 auto, width="300", height="300";">
+</p>
+
 <br>
 <br>
 
