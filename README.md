@@ -185,7 +185,6 @@ Tokenization of Real Estate is something that has became very popular and it wou
 ## Installation Guide
 
 ```
-
 pip install streamlit
 pip install python-dotenv
 pip install datetime
@@ -200,6 +199,9 @@ pip show protobuf
 pip install --upgrade protobuf
 pip install -U scikit-learn
 pip install tensorflow==2.11
+pip install seaborn
+pip install hvplot
+conda install -c pyviz hvplot geoviews
 ```
 
 
