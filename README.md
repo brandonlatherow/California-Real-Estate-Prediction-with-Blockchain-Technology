@@ -180,12 +180,6 @@ We were able to successfully run our streamlit application for three individual 
 <p align="center">
   <img src="Images/ether_two.png" alt="Image" style="display: block; margin: 0 auto, width="300", height="300";">
 </p>
-
-<br />
-
-<p align="center">
-  <img src="Images/ether_confirm.png" alt="Image" style="display: block; margin: 0 auto, width="300", height="300";">
-</p>
 <br />
 <br />
 
